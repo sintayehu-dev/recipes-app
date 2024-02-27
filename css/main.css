@@ -353,3 +353,45 @@ Navbar
     margin-left: auto;
   }
 }
+/*
+=============== 
+Page
+===============
+*/
+
+.page {
+  width: 90vw;
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+.page {
+  padding-top: 2rem;
+  min-height: calc(100vh - (6rem + 4rem));
+}
+/*
+=============== 
+Footer
+===============
+*/
+
+.page-footer {
+  text-align: center;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--black);
+  color: var(--white);
+
+}
+.page-footer h5 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.page-footer p {
+  margin-bottom: 0;
+}
+.page-footer .footer-logo,
+.page-footer a {
+  color: var(--primary-500);
+}

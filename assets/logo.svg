@@ -4,6 +4,6 @@
   
   <!-- Text Element with Styling -->
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Verdana" font-size="28" fill="#3498db" font-weight="bold">
-    Ethio Recipes
+    EthioRecipes
   </text>
 </svg>
